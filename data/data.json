@@ -1,0 +1,113 @@
+[
+  {
+    "name": "To Do",
+    "items": [
+      {
+        "id": 1,
+        "priority": "Low",
+        "title": "Brainstorming",
+        "desc": "Brainstorming brings team members' diverse experience into play. ",
+
+        "comments": 12,
+        "attachment": 0,
+        "assignees": [
+          "assets/images/ellipse12.svg",
+          "assets/images/ellipse13.svg",
+          "assets/images/ellipse14.svg"
+        ]
+      },
+      {
+        "id": 2,
+        "priority": "High",
+        "title": "Research",
+        "desc": "User research helps you to create an optimal product for users.",
+
+        "comments": 10,
+        "attachment": 3,
+        "assignees": [
+          "assets/images/ellipse14.svg",
+          "assets/images/ellipse15.svg"
+        ]
+      },
+      {
+        "id": 3,
+        "priority": "High",
+        "title": "Wireframes",
+        "desc": "Low fidelity wireframes include the most basic content and visuals.",
+        "comments": 10,
+        "attachment": 3,
+        "assignees": [
+          "assets/images/ellipse14.svg",
+          "assets/images/ellipse15.svg",
+          "assets/images/ellipse12.svg"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "On Progress",
+    "items": [
+      {
+        "id": 4,
+        "priority": "Low",
+        "title": "Onboarding Illustrations",
+        "desc": "",
+        "images": ["assets/images/illustration1.svg"],
+        "comments": 14,
+        "attachment": 15,
+        "assignees": [
+          "assets/images/ellipse12.svg",
+          "assets/images/ellipse13.svg",
+          "assets/images/ellipse14.svg"
+        ]
+      },
+      {
+        "id": 5,
+        "priority": "High",
+        "title": "Research",
+        "desc": "",
+        "images": [
+          "assets/images/illustration2.svg",
+          "assets/images/illustration3.svg"
+        ],
+        "comments": 9,
+        "attachment": 10,
+        "assignees": [
+          "assets/images/ellipse14.svg",
+          "assets/images/ellipse15.svg"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Done",
+    "items": [
+      {
+        "id": 6,
+        "priority": "Completed",
+        "title": "Mobile App Designs",
+        "desc": "",
+        "images": ["assets/images/doneImg.svg"],
+        "comments": 14,
+        "attachment": 15,
+        "assignees": [
+          "assets/images/ellipse12.svg",
+          "assets/images/ellipse13.svg"
+        ]
+      },
+      {
+        "id": 7,
+        "priority": "Comleted",
+        "title": "Research",
+        "desc": "It just needs to adapt the UI from what you did before ",
+        "comments": 9,
+        "attachment": 10,
+        "assignees": [
+          "assets/images/ellipse14.svg",
+          "assets/images/ellipse15.svg",
+          "assets/images/ellipse12.svg"
+        ]
+      }
+    ]
+  }
+]
